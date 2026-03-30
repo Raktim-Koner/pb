@@ -33,7 +33,7 @@ export default function GalleryPage() {
       </div>
 
       <p className="mt-6 text-lg max-w-xl text-center">
-        These moments are special and unforgettable.
+        With you, even the simplest moments turned into the best memories.
       </p>
 
       {/* 🔥 NEW ENTER BUTTON */}
