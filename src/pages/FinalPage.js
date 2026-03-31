@@ -22,6 +22,9 @@ export default function FinalPage() {
       <p className="mt-6 text-lg max-w-xl text-center z-10">
         With you, even the simplest moments turned into the best memories.
       </p>
+      <p className="absolute bottom-4 right-4 text-sm z-10">
+        ~ Helped by Arpita Pal
+      </p>
     </motion.div>
   );
 }
